@@ -11,7 +11,7 @@ javac Main.java
 javap -c Main
 ```
 
-出力結果
+出力結果例
 ```
 Compiled from "Main.java"
 public class Main {
